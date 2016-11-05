@@ -6,6 +6,6 @@
 </head>
 <body>
 <p onclick="$(this) . hide() ;"> Hello World!</p>
-<script type="text/javascript" src="/jquery-3.1.1.min.js"></script>
+<script type="text/javascript" src="jquery-3.1.1.min.js"></script>
 </body>
 </html>
